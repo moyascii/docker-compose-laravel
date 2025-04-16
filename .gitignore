@@ -1,0 +1,15 @@
+# Ignorar todo dentro de www excepto la carpeta raíz
+/www/*
+!/www/.gitkeep
+
+# Archivos comunes a ignorar
+node_modules/
+vendor/
+.env
+.env.*
+*.log
+storage/*.key
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
