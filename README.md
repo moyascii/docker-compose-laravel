@@ -78,7 +78,7 @@ Editar el archivo `.env` dentro de tu proyecto Laravel:
 DB_CONNECTION=mysql
 DB_HOST=laravel-db
 DB_PORT=3306
-DB_DATABASE=aizagest_chile
+DB_DATABASE=mydatabase
 DB_USERNAME=laravel
 DB_PASSWORD=laravel
 ```
